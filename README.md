@@ -1,9 +1,3 @@
-### **Repository Description**  
-**Library Management System**  
-A Java-based Library Management System that allows users to manage books and members, issue and return books, and store data in a MySQL database. It demonstrates core Java and object-oriented programming concepts integrated with database connectivity.
-
----
-
 # Library Management System
 
 A simple Java-based Library Management System designed to manage books and members, issue and return books, and maintain records using a MySQL database. This project demonstrates core Java concepts, object-oriented programming principles, and integration with MySQL for persistent data storage.
